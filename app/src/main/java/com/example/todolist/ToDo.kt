@@ -1,4 +1,4 @@
-package com.example.todolist
+package com.ikremius.todolist
 
 data class ToDo(
     val title: String,

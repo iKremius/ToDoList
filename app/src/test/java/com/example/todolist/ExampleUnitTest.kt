@@ -1,4 +1,4 @@
-package com.example.todolist
+package com.ikremius.todolist
 
 import org.junit.Test
 

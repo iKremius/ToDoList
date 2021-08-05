@@ -1,4 +1,4 @@
-package com.example.todolist
+package com.ikremius.todolist
 
 import android.view.View
 import androidx.recyclerview.widget.RecyclerView

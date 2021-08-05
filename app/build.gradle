@@ -8,7 +8,7 @@ android {
     compileSdk 28
 
     defaultConfig {
-        applicationId "com.example.todolist"
+        applicationId "com.ikremius.todolist"
         minSdk 28
         targetSdk 28
         versionCode 1

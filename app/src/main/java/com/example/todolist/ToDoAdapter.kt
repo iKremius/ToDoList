@@ -1,4 +1,4 @@
-package com.example.todolist
+package com.ikremius.todolist
 
 import android.annotation.SuppressLint
 import android.graphics.Paint.STRIKE_THRU_TEXT_FLAG
