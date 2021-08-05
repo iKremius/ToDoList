@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">ToDo List</string>
+    <string name="item_todo_textview_text">Example</string>
+    <string name="items_save_warning">An error has occurred while trying to save data.</string>
+    <string name="items_load_warning">An error has occurred while trying to load data.</string>
+    <string name="create_data_dir_warning">An error has occurred while trying to create directory for data.</string>
+    <string name="create_data_file_warning">An error has occurred while trying to create file for data.</string>
+    <string name="btn_add_item_text" translatable="false">+</string>
+    <string name="btn_del_done_text" translatable="false">-</string>
+    <string name="et_todo_title_text">Enter text</string>
+</resources>
